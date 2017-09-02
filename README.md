@@ -6,5 +6,5 @@
     - DRONE\_GITHUB\_CLIENT is Client ID
     - DRONE\_GITHUB\_SECRET is Client Secret
     - DRONE\_SECRET is a random string
-4. Add drone.sqlite (if you have)
+4. Add drone.sqlite under data/ directory (if you have)
 5. `docker-compose up -d`
